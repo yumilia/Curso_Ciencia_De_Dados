@@ -1,0 +1,11 @@
+Home Work Instructions
+
+Eu já instalei no notebook de dar aulas a nova versão do anaconda que é a mesma que vocês estão usando.
+O arquivo DataPrePro.py já está com a codificação corrigido e ajustado para a nova versão do Anaconda / Python como havia prometido.
+
+Segue o arquivo .sv DataCity como dataset.
+Fazer o Data Pre Processing nesse arquivo utilizando o template DataPrepro.py fornecido.
+
+
+Best Regards, 
+Prof. Marcelo Bianchi
