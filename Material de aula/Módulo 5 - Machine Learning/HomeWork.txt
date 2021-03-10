@@ -1,0 +1,5 @@
+
+Baseado no exercicio que foi feito em sala de aula (data exploration and Data Visualization), utilize o modelo de machine learning multiple linear regression
+para realizar predictions.
+
+
