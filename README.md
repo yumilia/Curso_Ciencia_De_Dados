@@ -10,3 +10,5 @@ Há a seguinte divisão das pastas:
 * **Código feito em aula** -> São códigos elaborado em aula juntamente com o auxílio do professor Thomas.
 * **Material de aula** -> São materiais de estudo que foram disponibilizado pelo professor Marcelo.
 * **Provas e trabalho** -> São as provas e os trabalhos do curso.
+
+É recomendado baixar o <a href="https://jupyter.org/>jupyter notebook</a> para a execução dos códigos. 
