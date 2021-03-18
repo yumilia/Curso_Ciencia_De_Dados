@@ -11,4 +11,4 @@ Há a seguinte divisão das pastas:
 * **Material de aula** -> São materiais de estudo que foram disponibilizado pelo professor Marcelo.
 * **Provas e trabalho** -> São as provas e os trabalhos do curso.
 
-É recomendado baixar o <a href="https://jupyter.org/>jupyter notebook</a> para a execução dos códigos. 
+É recomendado baixar o <a href="https://jupyter.org/">jupyter notebook</a> para a execução dos códigos. 
